@@ -12,7 +12,7 @@ I am a recent Computer Science graduate with a strong foundation in programming,
 - **Security:** Risk assessment, NIST CSF, incident response basics, vulnerability assessment
 - **Data Analysis:** SQL, spreadsheets, data cleaning, data-driven decision making
 - **Tools:** Linux, SQL, Wireshark, tcpdump, Git
-- **Programming:** Python, Java/Kotlin (Android), x86 Assembly
+- **Programming:** C++ (OOP), Python, Java/Kotlin (Android), x86 Assembly
 - **Soft skills:** Analytical thinking, problem-solving, continuous learning
 
 ## Projects
@@ -29,6 +29,6 @@ I am a recent Computer Science graduate with a strong foundation in programming,
 - *TryHackMe / Hack The Box write-ups coming soon*
 
 ## Contact
-- Email: your.email@example.com
+- Email: your.faaraxmuniir817@example.com
 - LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 - GitHub: [Faarax60](https://github.com/Faarax60)
